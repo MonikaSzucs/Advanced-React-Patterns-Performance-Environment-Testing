@@ -1,7 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+
 import App from './App';
+//import App from './1-App-Button';
+//import App from './2-App-State-Machine';
+//import App from './3-1-Fetch-On-PageLoad';
+//import App from './3-2-Fetch-On-Click';
+//import App from './3-3-Fetch-On-Click-Error';
+//import App from './3-4-Fetch-On-Click-Managing-Errors';
+//import App from './4-Compound-Components';
+
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
